@@ -142,6 +142,6 @@ All core logic, implementation decisions, and system architecture were designed 
 
 
 ## Author
-Sumasree Ragi  
-Course: Applied Generative AI
-University of Chicago
+- Sumasree Ragi  
+- Course: Applied Generative AI
+- University of Chicago
